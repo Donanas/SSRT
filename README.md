@@ -1,2 +1,0 @@
-# SSRT
-SSRT
